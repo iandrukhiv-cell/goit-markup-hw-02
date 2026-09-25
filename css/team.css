@@ -20,6 +20,7 @@
 }
 
 .team-role {
+    letter-spacing: 0.02em;
     text-align: center;
-    color: #8e8f99;
+    color: #434455;
 }
