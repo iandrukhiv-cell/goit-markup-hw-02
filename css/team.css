@@ -1,0 +1,25 @@
+.team {
+    background-color: #f4f4fd;
+}
+
+.team-heading {
+    text-align: center;
+}
+
+.team-card {
+    background-color: #ffffff;
+}
+
+.team-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-role {
+    text-align: center;
+    color: #8e8f99;
+}
